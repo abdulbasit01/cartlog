@@ -1,0 +1,22 @@
+li a {
+    color:white !important;
+    font-size: 20px;
+}
+.navbar{
+    background-color: transparent !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+li{
+    margin-left: 40px;
+}
+li a:hover {
+    color:white !important;
+    font-size: 20px;
+    text-decoration: underline !important;
+}
+.active{
+    text-decoration: underline !important;
+
+}
